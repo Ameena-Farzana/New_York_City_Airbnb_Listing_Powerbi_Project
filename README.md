@@ -71,3 +71,7 @@ Average Nights by Room Type and Neighborhood:
 
 #### Number of Reviews in Neighborhoods:
    Offers detailed insights into the number of reviews received in each neighborhood. This could include tables or visualizations that display review counts for each neighborhood, allowing users to understand the popularity and guest satisfaction levels across different areas.
+
+## Result
+
+<img width="1044" alt="Screenshot 2023-08-17 at 8 24 20 PM" src="https://github.com/Ameena-Farzana/New_York_City_Airbnb_Listing_Powerbi_Project/assets/121862099/2e33e7d5-606c-4a14-bfe6-cb5b58e9ee0f">
